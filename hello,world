@@ -1,5 +1,5 @@
-#!/usr/bin/perl
-use 5.018;
+#!/usr/bin/perl;#perl所在的位置
+use 5.018; #使用版本5.018
 use diagnostics;
 say "hello world!";
 say '\'\\'; # 两个单引号之间可以放置任意字母，放入一个'要在前面加入一个\,放入一个\要在后面补一个\；

@@ -6,5 +6,3 @@ say '\'\\'; # 两个单引号之间可以放置任意字母，放入一个'要�
 say "The last character of this string is a quote mark\"x1111";
 say "hello"."world" ;# . 是字符串操作符，使。左右两边的字符串连接起来；
 say "hello"x3; # x(英文小写字母）后面跟的数字，重复次数。
-# 以上代码使用textwrangle编辑，以下代码使用visual studio code编写；
-# say "hello"x3
